@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692818410 source:d:\udemy work\new_courses\codeblocks_project\dynamic_allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+

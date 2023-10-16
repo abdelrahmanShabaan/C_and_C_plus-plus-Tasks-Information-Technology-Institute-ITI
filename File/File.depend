@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693004600 source:d:\udemy work\new_courses\codeblocks_project\file\main.c
+	<stdio.h>
+	<stdlib.h>
+
